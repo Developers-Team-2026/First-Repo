@@ -1,6 +1,6 @@
 # Echipa 1 Developers 2026 👋
 
-Bună ziua! Suntem o echipă de 4 studenți care lucrează împreună proiectul nostru comun.
+Bună ziua! Suntem o echipă de 4 studenți care lucrează împreună asupra proiectul nostru comun.
 
 ## Membrii echipei:
 - 👑 **Daria Cricliuc** — Product Owner
