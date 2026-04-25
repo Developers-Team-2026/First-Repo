@@ -4,8 +4,8 @@ Membrii echipei:
 
 👑 Daria Cricliuc — Product Owner
 🔧 Alina Borinschi — Scrum Master
-💻 Dan Șuiu — Developer Leader
-🚀 Dorina Dub — Developer Junior
+💻 Dorina Dub — Dev Lead
+🚀 Dan Șuiu — Developer Junior
 
 Despre proiect:
 Crearea unui canal de comunicare pentru echipă folosind Telegram, GitHub și Google Calendar.
